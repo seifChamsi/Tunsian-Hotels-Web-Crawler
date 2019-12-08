@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-web-crawler",
+  "version": "1.0.0",
+  "description": "Tunisian hotels web crawler to scrap hotels based in sousse revealing their names, ratings and prices",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Saifeddin Chamsi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
