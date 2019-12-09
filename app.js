@@ -32,10 +32,10 @@ let sousseHotelsUrl = 'https://www.booking.com/searchresults.fr.html?label=gen17
             //Initialize Json object (hotel data wrapper)
             let hotelsData = {};
             try {
-                hotelsData.name = hotelelem.querySelector('span.sr-hotel__name').innerHTML;
-                hotelsData.rating = hotelelem.querySelector('div.bui-review-score__badge').innerHTML;
-                hotelsData.reviews = hotelelem.querySelector('div.bui-review-score__text').innerHTML;
-                hotelsData.price = hotelelem.querySelector('span.bui-u-sr-only').innerHTML;
+                hotelsData.name = hotelelem.querySelector('span.sr-hotel__name').innerText;
+                hotelsData.rating = hotelelem.querySelector('div.bui-review-score__badge').innerText;
+                hotelsData.reviews = hotelelem.querySelector('div.bui-review-score__text').innerText;
+                hotelsData.price = hotelelem.querySelector('div[class="bui-price-display__value prco-inline-block-maker-helper"]').innerText;
             } catch (error) {
                 console.log(error);
             }

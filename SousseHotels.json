@@ -1,1 +1,149 @@
-[{"name":"\nSousse City &amp; Beach Hotel\n","rating":" 6,7 ","reviews":" 270 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nHotel Marhaba Beach\n","rating":" 8,1 ","reviews":" 719 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nAppartement charmant et ensoleilé a sousse\n"},{"name":"\nSousse Palace hôtel &amp; spa\n","rating":" 7,7 ","reviews":" 368 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nMarhaba Royal Salem - Family Only\n","rating":" 7,6 ","reviews":" 323 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nAppartement haut standing S+2\n"},{"name":"\nHotel Paris\n","rating":" 8,4 ","reviews":" 554 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nvilla darine\n"},{"name":"\nAppartement vue sur mer A FOLLA AQUA RESORT\n"},{"name":"\nPETIT STUDIO NEUF KHZAMA SOUSSE\n"},{"name":"\nStudio Aziz\n"},{"name":"\nPalmyra Aquapark Kantaoui - Families Only\n","rating":" 6,4 ","reviews":" 131 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nHôtel Medina\n","rating":" 7,9 ","reviews":" 412 expériences vécues ","price":"\nPersonnes max.: 3\n"},{"name":"\nMövenpick Resort &amp; Marine Spa Sousse\n","rating":" 8,0 ","reviews":" 440 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nLe Monaco Hôtel &amp; Thalasso\n","rating":" 6,9 ","reviews":" 360 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nHôtel El Faracha\n","rating":" 7,5 ","reviews":" 154 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nDar Antonia\n","rating":" 9,4 ","reviews":" 181 expériences vécues "},{"name":"\nJaz Tour Khalef\n","rating":" 7,9 ","reviews":" 254 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nEl Kantaoui Center\n","rating":" 5,8 ","reviews":" 169 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nDar Baaziz\n","rating":" 8,8 ","reviews":" 181 expériences vécues ","price":"\nPersonnes max.: 4\n"},{"name":"\nResidence Boujaafar\n","rating":" 6,7 ","reviews":" 153 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nAppartement Privé\n","rating":" 9,6 ","reviews":" 17 expériences vécues ","price":"\nPersonnes max.: 5\n"},{"name":"\nEl Mouradi Palace\n","rating":" 6,4 ","reviews":" 256 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\napparemment zone touristique à côté hôtel César\n"},{"name":"\nHotel Sindbad Sousse\n","rating":" 5,1 ","reviews":" 30 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nL'Orient Palace Resort and Spa\n","rating":" 5,9 ","reviews":" 350 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nRiadh Palms- Family &amp; Couples only\n","rating":" 6,4 ","reviews":" 202 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nThe Pearl Resort &amp; Spa\n","rating":" 8,1 ","reviews":" 379 expériences vécues ","price":"\nPersonnes max.: 2\n"},{"name":"\nThe Dune Spa et resort Kantaoui\n","rating":" 7,3 ","reviews":" 40 expériences vécues ","price":"\nPersonnes max.: 4\n"}]
+[
+    {
+        "name": "Sousse City & Beach Hotel ",
+        "rating": "6,7",
+        "reviews": "273 expériences vécues",
+        "price": "TND 737"
+    },
+    {
+        "name": "Hotel Marhaba Beach ",
+        "rating": "8,1",
+        "reviews": "717 expériences vécues",
+        "price": "TND 2 187"
+    },
+    {
+        "name": "PETIT STUDIO NEUF KHZAMA SOUSSE"
+    },
+    {
+        "name": "Marhaba Royal Salem - Family Only ",
+        "rating": "7,6",
+        "reviews": "322 expériences vécues",
+        "price": "TND 1 891"
+    },
+    {
+        "name": "Sousse Palace hôtel & spa ",
+        "rating": "7,7",
+        "reviews": "368 expériences vécues",
+        "price": "TND 3 134"
+    },
+    {
+        "name": "Appartement haut standing S+2 "
+    },
+    {
+        "name": "1 chatt mariem Appartement"
+    },
+    {
+        "name": "Appartement Privé ",
+        "rating": "9,6",
+        "reviews": "17 expériences vécues",
+        "price": "TND 1 434"
+    },
+    {
+        "name": "Dar Baaziz",
+        "rating": "8,8",
+        "reviews": "181 expériences vécues",
+        "price": "TND 2 581"
+    },
+    {
+        "name": "The Dunes Resort & Spa "
+    },
+    {
+        "name": "Résidence Folla Aquaresort"
+    },
+    {
+        "name": "Le Monaco Hôtel & Thalasso ",
+        "rating": "6,9",
+        "reviews": "361 expériences vécues",
+        "price": "TND 1 051"
+    },
+    {
+        "name": "Hôtel Medina ",
+        "rating": "7,9",
+        "reviews": "413 expériences vécues",
+        "price": "TND 1 004"
+    },
+    {
+        "name": "Hotel Paris",
+        "rating": "8,5",
+        "reviews": "559 expériences vécues",
+        "price": "TND 447"
+    },
+    {
+        "name": "Mövenpick Resort & Marine Spa Sousse ",
+        "rating": "8,0",
+        "reviews": "441 expériences vécues",
+        "price": "TND 5 472"
+    },
+    {
+        "name": "Hôtel El Faracha ",
+        "rating": "7,5",
+        "reviews": "154 expériences vécues",
+        "price": "TND 1 024"
+    },
+    {
+        "name": "Villa de charme Sousse"
+    },
+    {
+        "name": "L'Orient Palace Resort and Spa ",
+        "rating": "5,9",
+        "reviews": "350 expériences vécues",
+        "price": "TND 1 314"
+    },
+    {
+        "name": "El Kantaoui Center ",
+        "rating": "5,8",
+        "reviews": "169 expériences vécues",
+        "price": "TND 1 173"
+    },
+    {
+        "name": "Palmyra Aquapark Kantaoui - Families Only ",
+        "rating": "6,4",
+        "reviews": "131 expériences vécues",
+        "price": "TND 926"
+    },
+    {
+        "name": "Jaz Tour Khalef ",
+        "rating": "7,9",
+        "reviews": "256 expériences vécues",
+        "price": "TND 3 454"
+    },
+    {
+        "name": "The Dune Spa et resort Kantaoui ",
+        "rating": "7,3",
+        "reviews": "40 expériences vécues",
+        "price": "TND 1 024"
+    },
+    {
+        "name": "El Mouradi Palace ",
+        "rating": "6,4",
+        "reviews": "256 expériences vécues",
+        "price": "TND 1 844"
+    },
+    {
+        "name": "Appartement charmant et ensoleilé a sousse"
+    },
+    {
+        "name": "The Pearl Resort & Spa ",
+        "rating": "8,1",
+        "reviews": "379 expériences vécues",
+        "price": "TND 3 278"
+    },
+    {
+        "name": "Residence Boujaafar ",
+        "rating": "6,7",
+        "reviews": "153 expériences vécues",
+        "price": "TND 696"
+    },
+    {
+        "name": "Panamera"
+    },
+    {
+        "name": "Guest house samia"
+    },
+    {
+        "name": "Residence haouari ",
+        "rating": "7,4",
+        "reviews": "22 expériences vécues",
+        "price": "TND 1 475"
+    }
+]
