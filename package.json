@@ -9,6 +9,7 @@
   "author": "Saifeddin Chamsi",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0"
   }
 }
